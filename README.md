@@ -50,4 +50,9 @@ beam search settings, maximum length of generated code, etc.
 * Consider exploring PolyCoder's other features, such as fine-tuning on specific
 coding domains or tasks.
 
-# Evaluation of pregenerated Samples
+# Evaluation of Pregenerated Samples
+
+
+# References
+* Paper available at [arxiv](https://arxiv.org/abs/2305.01210)
+* Code of the authors and furhter info available at their [GitHub](https://github.com/evalplus/evalplus)
