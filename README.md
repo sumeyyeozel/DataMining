@@ -51,6 +51,14 @@ beam search settings, maximum length of generated code, etc.
 coding domains or tasks.
 
 # Evaluation of Pregenerated Samples
+1. Extract the contents of the file pregenerated_samples/tested_models.zip
+2. Install the evalplus CLI-Tool (python package) using pip
+3. Open a terminal and navigate to the location of the extracted files
+4. Type the command
+```bash
+    evalplus.evaluate --dataset humaneval --samples <model name>
+```   
+and replace <model name> with the name of the directory containing the pregenerated samples. 
 
 
 # References
