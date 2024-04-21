@@ -55,4 +55,4 @@ coding domains or tasks.
 
 # References
 * Paper available at [arxiv](https://arxiv.org/abs/2305.01210)
-* Code of the authors and furhter info available at their [GitHub](https://github.com/evalplus/evalplus)
+* Code of the authors and further information available at their [GitHub](https://github.com/evalplus/evalplus)
